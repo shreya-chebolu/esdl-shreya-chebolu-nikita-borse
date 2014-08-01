@@ -1,8 +1,10 @@
-#include<iostream>
+#include<iostream.h>
 using namespace std;
 
-int main()
+void main()
 {
 cout<<"This is my first repository";
-return 0;
+getch();
 }
+
+//hello
